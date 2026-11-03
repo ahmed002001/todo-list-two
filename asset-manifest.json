@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8a54c55.css",
+    "main.js": "/static/js/main.0bd5b515.js",
+    "static/js/453.da9e3c78.chunk.js": "/static/js/453.da9e3c78.chunk.js",
+    "static/media/Alexandria-ExtraBold.ttf": "/static/media/Alexandria-ExtraBold.9c9cd3852d0c39bc1ab2.ttf",
+    "static/media/Alexandria-SemiBold.ttf": "/static/media/Alexandria-SemiBold.3a65a8704e464b69b62b.ttf",
+    "static/media/Alexandria-Bold.ttf": "/static/media/Alexandria-Bold.d043f155a17f0bd1dd25.ttf",
+    "static/media/Alexandria-Medium.ttf": "/static/media/Alexandria-Medium.39ebba46808626cfd70c.ttf",
+    "static/media/Alexandria-Black.ttf": "/static/media/Alexandria-Black.b050c3754acb1a57e5e2.ttf",
+    "static/media/Alexandria-ExtraLight.ttf": "/static/media/Alexandria-ExtraLight.a113243702710a0fb5ac.ttf",
+    "static/media/Alexandria-Light.ttf": "/static/media/Alexandria-Light.0b0275d53b2c61d4cc42.ttf",
+    "static/media/Alexandria-Thin.ttf": "/static/media/Alexandria-Thin.c345d14b52c46eef2591.ttf",
+    "static/media/Alexandria-Regular.ttf": "/static/media/Alexandria-Regular.75f2434a3ca4a420cd50.ttf",
+    "index.html": "/index.html",
+    "main.c8a54c55.css.map": "/static/css/main.c8a54c55.css.map",
+    "main.0bd5b515.js.map": "/static/js/main.0bd5b515.js.map",
+    "453.da9e3c78.chunk.js.map": "/static/js/453.da9e3c78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a54c55.css",
+    "static/js/main.0bd5b515.js"
+  ]
+}
